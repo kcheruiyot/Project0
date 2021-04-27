@@ -1,0 +1,4 @@
+[debug] [dbmcqs-test] Classpath dependencies List()
+[debug] [dbmcqs-test] Dependencies from configurations List(dbmcqs)
+[debug] Bloop wrote the configuration of project 'dbmcqs-test' to '/home/cheruiyot/Revature/Scala_Training/Projects/Project0/dbmcqs/.bloop/dbmcqs-test.json'
+[success] Generated .bloop/dbmcqs-test.json
