@@ -75,3 +75,12 @@ libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % 
 
 // To learn more about multi-project builds, head over to the official sbt
 // documentation at http://www.scala-sbt.org/documentation.html
+
+
+libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2"
+libraryDependencies += "com.lihaoyi" %% "upickle" % "0.9.5"
+//libraryDependencies += "com.lihaoyi" %% "os-lib" % "0.2.7"
+libraryDependencies += "com.lihaoyi" %% "os-lib" % "0.7.1"
+
+// https://mvnrepository.com/artifact/org.postgresql/postgresql
+libraryDependencies += "org.postgresql" % "postgresql" % "42.2.20"

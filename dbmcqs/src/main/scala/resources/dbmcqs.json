@@ -1,0 +1,93 @@
+{
+  "dbmcqs":[
+      { "question":"In the __________ normal form, a composite attribute is converted to individual attributes.",
+       "choices":["First", "Second","Third","Fourth"],
+       "answer":"a"
+      },
+      
+      { "question":"A table on the many side of a one to many or many to many relationship must:",
+       "choices":["Be in Second Normal Form (2NF)","Be in Third Normal Form (3NF)","Have a single attribute key","Have a composite key"],
+       "answer":"d"
+      },
+      
+      { "question":"Tables in second normal form (2NF):",
+       "choices":[
+           "Eliminate all hidden dependencies",
+           "Eliminate the possibility of a insertion anomalies",
+           "Have a composite key",
+           "Have all non key fields depend on the whole primary key"
+       ],
+       "answer":"a"
+      },
+      
+      { "question":"Which-one ofthe following statements about normal forms is FALSE?",
+       "choices":[
+           "BCNF is stricter than 3NF",
+           "Lossless, dependency -preserving decomposition into 3 NF is always possible",
+           "Loss less, dependency – preserving decomposition into BCNF is always possible",
+           "Any relation with two attributes is BCNF"
+        ],
+       "answer":"c"
+      },
+      
+      { "question":"Functional Dependencies are the types of constraints that are based on______",
+       "choices":[
+           "Key",
+           "Key revisited",
+           "Superset key",
+           "None of the mentioned"
+       ],
+       "answer":"a"
+      },
+      
+      { "question":"Which is a bottom-up approach to database design that design by examining the relationship between attributes:",
+       "choices":[
+           "Functional dependency",
+           "Database modeling",
+           "Normalization",
+           "Decomposition"
+       ],
+       "answer":"c"
+      },
+      
+      { "question":"Which forms simplifies and ensures that there are minimal data aggregates and repetitive groups:",
+       "choices":[
+           "1NF",
+           "2NF",
+           "3NF",
+           "All of the mentioned"
+       ],
+       "answer":"c"
+      },
+      
+      { "question":"Which forms has a relation that possesses data about an individual entity:",
+       "choices":[
+           "2NF",
+           "3NF",
+           "4NF",
+           "5NF"
+       ],
+       "answer":"c"
+      },
+      
+      { "question":"Which forms are based on the concept of functional dependency:",
+       "choices":[
+           "1NF",
+           "2NF",
+           "3NF",
+           "4NF"
+       ],
+       "answer":"c"
+      },
+      
+      { "question":"Empdt1(empcode, name, street, city, state, pincode)<br>For any pincode, there is only one city and state. Also, for given street, city and state, there is just one pincode. In normalization terms, empdt1 is a relation in",
+       "choices":[
+           "1NF only",
+           "2NF and hence also in 1 NF",
+           "3NF and hence also in 2NF and 1NF",
+           "BCNF and hence also in 3NF, 2NF and 1NF"],
+       "answer":"b"
+      }
+   ]
+}
+
