@@ -16,7 +16,7 @@ object ConnectionUtil{
       conn =  DriverManager.getConnection(
       "jdbc:postgresql://localhost:5432/dbmcqs",
       "postgres",
-      "322192"
+      "?"
     )
     }
 

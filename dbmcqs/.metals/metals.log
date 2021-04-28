@@ -13927,3 +13927,9 @@ Caused by: java.nio.file.NoSuchFileException: /home/cheruiyot/Revature/Scala_Tra
 [0m2021.04.28 09:38:43 INFO  time: compiled dbmcqs in 0.47s[0m
 [0m2021.04.28 09:38:48 INFO  compiling dbmcqs (1 scala source)[0m
 [0m2021.04.28 09:38:49 INFO  time: compiled dbmcqs in 1.28s[0m
+[0m2021.04.28 11:45:18 INFO  compiling dbmcqs (1 scala source)[0m
+[0m2021.04.28 11:45:18 WARN  1 deprecation; re-run with -deprecation for details[0m
+[0m2021.04.28 11:45:18 INFO  time: compiled dbmcqs in 0.63s[0m
+[0m2021.04.28 11:45:20 INFO  compiling dbmcqs (1 scala source)[0m
+[0m2021.04.28 11:45:20 WARN  1 deprecation; re-run with -deprecation for details[0m
+[0m2021.04.28 11:45:20 INFO  time: compiled dbmcqs in 0.7s[0m
